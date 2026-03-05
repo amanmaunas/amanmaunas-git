@@ -1,2 +1,2 @@
 # amanmaunas-git
-Git study J
+Git study Journey - besic
